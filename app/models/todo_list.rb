@@ -36,9 +36,8 @@ class TodoList < ApplicationRecord
   		'info'
   	else
   		"primary"
-  	end
-
+  	end  
+  end
 
   
-  end
 end
